@@ -6,4 +6,5 @@ Pwa.configure do |config|
   #                                 'subdomain.lvh.me:3000']
   # config.define_app 'Example', ['example.com', 'localhost:3000',
   #                               'lvh.me:3000']
+  config.define_app 'jrnl'
 end
